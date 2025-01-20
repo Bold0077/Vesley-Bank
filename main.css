@@ -519,7 +519,7 @@ nav .menu-btn {
   color: var(--text-color);
 }
 .deposit {
-  color: blue;
+  color: green;
   padding-left: 1rem;
   display: flex;
   align-items: center;
@@ -530,7 +530,7 @@ nav .menu-btn {
   background: var(--ui-base);
 }
 .withdraw {
-  color: blue;
+  color: green;
   padding-left: 1rem;
   display: flex;
   align-items: center;
@@ -541,7 +541,7 @@ nav .menu-btn {
   background: var(--ui-base);
 }
 .pending{
-  color: red;
+  color: blue;
   padding-left: 1rem;
   display: flex;
   align-items: center;

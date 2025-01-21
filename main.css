@@ -541,7 +541,7 @@ nav .menu-btn {
   background: var(--ui-base);
 }
 .pending{
-  color: blue;
+  color: green;
   padding-left: 1rem;
   display: flex;
   align-items: center;

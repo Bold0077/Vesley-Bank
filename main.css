@@ -519,7 +519,7 @@ nav .menu-btn {
   color: var(--text-color);
 }
 .deposit {
-  color: green;
+  color: red;
   padding-left: 1rem;
   display: flex;
   align-items: center;
